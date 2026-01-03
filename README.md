@@ -198,7 +198,7 @@ If you use our TARS approach for few-shot and zero-shot learning, please cite [t
 @inproceedings{halder2020coling,
   title={Task Aware Representation of Sentences for Generic Text Classification},
   author={Halder, Kishaloy and Akbik, Alan and Krapac, Josip and Vollgraf, Roland},
-  booktitle = {{COLING} 2020, 28th International Conference on Computational Linguistics},
+  booktitle = {COLING 2020, 28th International Conference on Computational Linguistics},
   year      = {2020}
 }
 ```
